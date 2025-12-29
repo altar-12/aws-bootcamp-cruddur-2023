@@ -1,9 +1,9 @@
 {
   "BudgetLimit": {
-      "Amount": "1",
+      "Amount": "10",
       "Unit": "USD"
   },
-  "BudgetName": "Example Tag Budget",
+  "BudgetName": "Track Monthly Spending",
   "BudgetType": "COST",
   "CostTypes": {
       "IncludeCredit": true,

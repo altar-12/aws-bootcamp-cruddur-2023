@@ -12,5 +12,19 @@
               "SubscriptionType": "EMAIL"
           }
       ]
+  },
+  {
+      "Notification": {
+          "ComparisonOperator": "GREATER_THAN",
+          "NotificationType": "ACTUAL",
+          "Threshold": 100,
+          "ThresholdType": "PERCENTAGE"
+      },
+      "Subscribers": [
+          {
+              "Address": "myemail@gmail.com",
+              "SubscriptionType": "EMAIL"
+          }
+      ]
   }
 ]
